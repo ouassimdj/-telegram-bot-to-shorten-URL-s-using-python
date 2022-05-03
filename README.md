@@ -7,9 +7,12 @@
 
 library used in this project :
 
->        pip install python-telegram-bot
+>        pip install Flask
          
->        pip install requests
+>        pip install pyshorteners
+
+>        pip install python-telegram-bot
+
 
 screenshot example :
 
