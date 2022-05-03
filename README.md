@@ -1,4 +1,4 @@
-# telegram-bot-to-shorten-URL-s-using-python
+# Telegram-Bot-To-Shorten-URLS-Using-Python
 
 
 <h4>-- telegram bot to shorten-URL's and links using python --</h4>
@@ -17,7 +17,7 @@ library used in this project :
 
 
 
-screenshot example :
+Screenshot Example :
 
 ![Alt Text](https://github.com/ouassimdj/-telegram-bot-to-shorten-URL-s-using-python/blob/main/0001.jpeg)
 
