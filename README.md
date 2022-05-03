@@ -13,7 +13,7 @@ library used in this project :
 
 >        pip install python-telegram-bot
 
--- best use case is to upload it to repl it "checke" file is responsible for keeping the bot alive --
+-- best use case is to upload it to repl it "check" file is responsible for keeping the bot alive --
 
 
 
